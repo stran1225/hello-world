@@ -1,8 +1,8 @@
 /*
- *Steven Tran
- *
- *Simple C code for Hello World
- *
+ **Steven Tran
+ **
+ **Simple C code for Hello World
+ **
  */
  
 #include <stdio.h>
